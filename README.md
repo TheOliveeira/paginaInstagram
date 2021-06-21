@@ -10,6 +10,6 @@ inspirado no instagram. Utilizando bootstrap
 Linguagens - Html, JS, CSS
 Framework - Bootstrap
 
-Aluno
+# Aluno
 
 Ivair Fernando
